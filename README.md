@@ -1,4 +1,7 @@
-# hello-world
+# hello-humans
+
+## how are you
+
 My learning repository
 
 * item one 
